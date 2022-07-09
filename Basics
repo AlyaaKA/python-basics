@@ -1,4 +1,0 @@
-#Strings: strings mean any text that we want to print as it is and it should be between parentheses
-fig_name = "Maryam" 
-#to print out the string that we made we just type in it's name and it will be shown under the cell
-fig_name
